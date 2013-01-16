@@ -1,3 +1,9 @@
+This is the unreleased port of FB Alpha to the PSP. Most of this document is probably not relevant currently....
+
+
+
+
+
 FB Alpha  - http://fba.emuunlim.com
 -----------------------------------
 
